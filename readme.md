@@ -1,7 +1,7 @@
 # Conversor de Moedas 
 
-![](img/conversor_de_moedas.png | width=200)
-![](img/conversor_valor.png | width=200)
+![](img/conversor_de_moedas.png)
+![](img/conversor_valor.png)
 
 ---
 
